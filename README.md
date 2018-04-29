@@ -3,8 +3,6 @@
 Commands
 * python main.py
 
-Place images into Images/001
-
 BBox-Label-Tool
 ===============
 
