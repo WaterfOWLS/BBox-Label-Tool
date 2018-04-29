@@ -1,3 +1,10 @@
+# Team 47's Notes
+### Fork used for labelling images
+Commands
+* python main.py
+
+Place images into Images/001
+
 BBox-Label-Tool
 ===============
 
