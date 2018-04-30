@@ -3,6 +3,9 @@
 Commands
 * python main.py
 
+Notes
+* To avoid any need for modifying the code, just place your images into Images/001 to begin cropping
+
 
 
 BBox-Label-Tool
